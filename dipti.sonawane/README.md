@@ -28,7 +28,14 @@ Sizes of buildings and other elements would vary.
 
 ### Initial prototypes in Fablab
 <img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8422.JPG">
-
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8430.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8433.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8436.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8451.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8455.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8459.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8463.JPG">
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8476.JPG">
 
 ## PROPOSAL 02
 Idea 2 is on it's way...
