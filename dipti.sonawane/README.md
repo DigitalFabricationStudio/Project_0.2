@@ -27,7 +27,7 @@ Sizes of buildings and other elements would vary.
 * http://vimeo.com/33672021#
 
 ### Initial prototypes in Fablab
-<img src="https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/dipti.sonawane/prototype-selected/IMG_8422.JPG">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/blob/master/dipti.sonawane/prototype-selected/IMG_8422.JPG">
 
 
 ## PROPOSAL 02
