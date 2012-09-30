@@ -21,13 +21,13 @@ Size of the cityscape: 14”x14”
 Sizes of buildings and other elements would vary.
 
 ### Inspiration
-* [http://hlt.media.mit.edu/]
-* [http://www.bareconductive.com/light-up-paper-houses]
-* [https://www.google.com/search?q=pop-up+book+by+jie+qi&hl=en&prmd=imvnso&source=lnms&tbm=isch&sa=X&ei=X7hNUOj2JaKI4gSg6oHADw&ved=0CAoQ_AUoAQ&biw=1280&bih=679]
-* [http://vimeo.com/33672021#]
+* http://hlt.media.mit.edu/
+* http://www.bareconductive.com/light-up-paper-houses
+* https://www.google.com/search?q=pop-up+book+by+jie+qi&hl=en&prmd=imvnso&source=lnms&tbm=isch&sa=X&ei=X7hNUOj2JaKI4gSg6oHADw&ved=0CAoQ_AUoAQ&biw=1280&bih=679
+* http://vimeo.com/33672021#
 
 ### Initial prototypes in Fablab
-
+<img src="https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/dipti.sonawane/prototype-selected/IMG_8422.JPG">
 
 
 ## PROPOSAL 02
