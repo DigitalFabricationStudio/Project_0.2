@@ -23,6 +23,7 @@ Sizes of buildings and other elements would vary.
 ### Inspiration
 * http://hlt.media.mit.edu/
 * http://www.bareconductive.com/light-up-paper-houses
+* http://blog.makezine.com/2012/04/13/cnc-panel-joinery-notebook/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+makezineonline+%28MAKE%29
 * https://www.google.com/search?q=pop-up+book+by+jie+qi&hl=en&prmd=imvnso&source=lnms&tbm=isch&sa=X&ei=X7hNUOj2JaKI4gSg6oHADw&ved=0CAoQ_AUoAQ&biw=1280&bih=679
 * http://vimeo.com/33672021#
 
@@ -38,8 +39,27 @@ Sizes of buildings and other elements would vary.
 <img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8476.JPG">
 
 ## PROPOSAL 02
-Idea 2 is on it's way...
+### Working titles:
+Intricate city / Imaginary city
 
+My second proposal is very similar to the first one. I want to create an imaginary cityscape using laser cutting process on paper. The idea is explore paper as a medium and create intricately carved structures. Intricately carved paper fascinates me and I want to use my illustration skills on carving the city of my imagination. 
+
+Basic electronics will be embedded onto the floorplan or base of the cityscape. This would allow me to glue the structures as well as implement joinery that utilises the flexible nature of paper. LEDs will illuminate the buildings from the base/floorplan. The translucent nature of paper will allow the light to pass through the cut-outs as well as light up the structures from the inside. 
+
+Materials:
+Paper: Slightly thick for making the structures. Need to test different types of papers.
+Alternatively: Plastic sheet/thin acrylic sheet which can bend (but not necessarily fold) like paper.
+
+### Proposed size 
+Floor plan: 14"x14"
+Size of the buildings might vary.
+
+### Inspiration
+* http://www.behance.net/gallery/6-inch-Laser-Cut-Paper-Eiffel-Tower/3110353
+* http://flickrhivemind.net/Tags/origami,yoshinobumiyamoto/Interesting
+* http://www.flickr.com/photos/yoshinobu_miyamoto/5201048574/in/photostream/
+* http://abduzeedo.com/interview-elaine-penwell
+* http://ohsobeautifulpaper.com/wp-content/uploads/2011/05/Intricate-Cut-Paper-Design-Artwork-500x514.jpg
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
