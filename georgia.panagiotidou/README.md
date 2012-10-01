@@ -8,7 +8,6 @@ Personal project developed during the Digital Fabrication Studio course, 0.2 edi
   ‘3B’ is a stop motion animation film that tells a story of two foreigners in Helsinki.
    There is a need for puppets with moving parts. For this course I would like to prototype 2 working puppets for the 10seconds teaser of the film. If there is additional time, I would like to produce some of the background characters also. 
 
-
 ### Details:
 Each puppet would need to be divided into the parts shown in the image attached. All the parts would be attached except of the head that would not.  
 The material used would be black acrylic. They would be of variable sizes but not exceeding 30cm (no close-ups). 
@@ -27,6 +26,9 @@ The full animation will be in various perspectives, that is why there is a need 
 * **Separating the skin from the clothes of the puppet.** 
   
 	The skin would be engraved some mm so the result would be a white layer, 	which would differentiate the clothes. 
+
+
+![image 1](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/georgia.panagiotidou/puppet_attempt1.jpg)
 
 ## PROPOSAL 02
 There is no proposal 2 :)
