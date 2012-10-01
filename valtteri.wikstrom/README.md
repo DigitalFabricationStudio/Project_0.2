@@ -16,6 +16,8 @@ I have yet to make concrete plans about the details of the connector. I plan to 
 	* Raspberry Pi case
 	* (Empty) photoframe with room for embedded camera and distance sensor, including simple pcb design (See proposal 2)
 
+
+
 2. Path II:
 	* Arduino Mega ADB case
 	* (Empty) photoframe with Android phone holder and embedded distance sensor
