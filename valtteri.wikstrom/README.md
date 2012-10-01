@@ -13,12 +13,12 @@ Connector X is a opendesign connector for prototyping projects with different co
 I have yet to make concrete plans about the details of the connector. I plan to produce a set of connector X components to demonstrate its use in a project. Depending on my Raspberry Pi arriving safely in time, I plan to follow either Path I or Path II.
 
 1. Path I:
-* Raspberry Pi case
-* (Empty) photoframe with room for embedded camera and distance sensor, including simple pcb design (See proposal 2)
+	* Raspberry Pi case
+	* (Empty) photoframe with room for embedded camera and distance sensor, including simple pcb design (See proposal 2)
 
 2. Path II:
-* Arduino Mega ADB case
-* (Empty) photoframe with Android phone holder and embedded distance sensor
+	* Arduino Mega ADB case
+	* (Empty) photoframe with Android phone holder and embedded distance sensor
 
 
 ## PROPOSAL 02 Photoframe camera
