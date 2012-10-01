@@ -29,7 +29,7 @@ Chameleon Lamp is a lamp that changes its color based on the color of the surfac
 
 ## PROPOSAL 02 - Portable Sound Museum
 
-Äänimuseo [Sound Museum] is an interactive sound installation that was originally created for the Koukkuniemi Home for the Elderly in spring 2011. It is a tool that allows the people living in Koukkuniemi to reminisce and share their memories with the help of auditory and haptic cues.
+Äänimuseo [Sound Museum] is an interactive sound installation that I originally created for the Koukkuniemi Home for the Elderly in spring 2011 in collaboration with Media Museum Rupriikki. It is a tool that allows the people living in Koukkuniemi to reminisce and share their memories with the help of auditory and haptic cues.
 
 I would like to try to develop a similar system in a much smaller form factor. The RFID reader and the small linux computer would be embedded inside a hexagon or round shaped enclosure. 
 
