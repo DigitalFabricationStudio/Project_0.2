@@ -38,6 +38,7 @@ Sizes of buildings and other elements would vary.
 <img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8463.JPG">
 <img src="https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/dipti.sonawane/prototype-selected/IMG_8476.JPG">
 
+
 ## PROPOSAL 02
 ### Working titles:
 Intricate city / Imaginary city
@@ -60,6 +61,10 @@ Size of the buildings might vary.
 * http://www.flickr.com/photos/yoshinobu_miyamoto/5201048574/in/photostream/
 * http://abduzeedo.com/interview-elaine-penwell
 * http://ohsobeautifulpaper.com/wp-content/uploads/2011/05/Intricate-Cut-Paper-Design-Artwork-500x514.jpg
+
+### Testing a circuit
+I used a light dependent resistor (LDR) to light two LEDs when it's dark and turn them off when it's bright. This is a basic circuit test done today (2.010.2012) in the Fablab.
+
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
