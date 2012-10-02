@@ -1,11 +1,11 @@
-# NAME Janne Lehtimäki
-# TITLE OF THE PROJECT: Experimental Visual Box
+# NAME: Janne Lehtimäki
+# TITLE OF THE PROJECT
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
-__FOLLOWING IS A PRELIMINARY PLAN. IMAGES AND IN-DEPTH DESCRITIONS WILL BE ADDED DURING THE WEEK__
+__FOLLOWING IS A PRELIMINARY PLAN. IMAGES AND IN-DEPTH DESCRIPTIONS WILL BE ADDED DURING THE WEEK__
 
-## PROPOSAL 01
+## PROPOSAL 01: Experimental Visual Box
 
 The project is a combination of various visual ideas and techniques I have been learning and developing further in my mind.
 
@@ -29,13 +29,13 @@ Homework:  Design and fabricate a laser cut box or interlocking object.
 )
 
 
-## PROPOSAL 02
+## PROPOSAL 02: Continuing Proposal 01
 
 If the time allows, the project can be continued further.
 
 I have an idea of making geometric surfaces by using origami -like paper folding techniques. The paper surfaces could then be 3D scanned using Autodesk 123D and modified in Blender to fit the box floor nicely. 
 
-When happy with the design, the object could be 3D printed. After that the printed object will be sanded to very smooth surface and painted with chrome paint to make it as reflective as possible. It would serve as a nice reflective LED painting canvas that would interact with the mirrors nicely.
+When happy with the design, the object will be 3D printed. After that the printed object will be sanded to very smooth surface and painted with chrome paint to make it as reflective as possible. It would serve as a nice reflective LED painting canvas that would interact with the mirrors nicely.
 
 80s video game vector graphic aesthetics are inspiration for the surface.
 
