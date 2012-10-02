@@ -1,7 +1,4 @@
-# NAME: Janne Lehtimäki
-# TITLE OF THE PROJECT
-
-Personal project developed during the Digital Fabrication Studio course, 0.2 edition
+##Janne Lehtimäki
 
 __FOLLOWING IS A PRELIMINARY PLAN. IMAGES AND IN-DEPTH DESCRIPTIONS WILL BE ADDED DURING THE WEEK__
 
@@ -9,7 +6,7 @@ __FOLLOWING IS A PRELIMINARY PLAN. IMAGES AND IN-DEPTH DESCRIPTIONS WILL BE ADDE
 
 The project is a combination of various visual ideas and techniques I have been learning and developing further in my mind.
 
-The box is a platform for visual experimentation. The plan is to make a cube has all the surfaces facing inside made out of mirror. One of the walls has a small hole for video camera objective so that the inside of the box can be filmed. Alternatively one wall could be made of two-way mirror.
+The box is a platform for visual experimentation. The plan is to make a cube that has all the surfaces facing inside made out of mirror. One of the walls has a small hole for video camera objective so that the inside of the box can be filmed. Alternatively one wall could be made of two-way mirror.
 
 All the surfaces will be easily detachable. This will allow for removing any wall/ceiling/floor while keeping other parts in place. The frame will hold the remaining parts in place while some of them are removed.
 
