@@ -27,6 +27,12 @@ Here are some very VERY low res examples on "LED painting" to demonstrate the id
 
 ![](http://i.imgur.com/qzN0I.jpg)
 
+And below is a picture of basic infinity mirror. It is just a line of LEDs between two mirrors. The front mirror is a two way mirror meaning that the other side (the inner side) is reflective like a regular mirror but you can see through from the front.
+
+![](http://www.regentbathrooms.co.uk/image/cache/data/hib-odyssey-mirror-500x500.jpg)
+
+(Picture taken from http://www.regentbathrooms.co.uk/image/cache/data/hib-odyssey-mirror-500x500.jpg)
+
 ##The Construction:
 
 The frame will be made by laser cutting suitable pieces from (6mm?)MDF board and then joining them to form the frame. The mirrors will be acrylic mirror.
