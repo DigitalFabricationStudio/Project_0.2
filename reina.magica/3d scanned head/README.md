@@ -7,6 +7,8 @@ Took 54 surround pictures of model. 10 were of the top part of head. Generated 3
 
 ![face](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/3d%20scanned%20head/reinaheadmodel.jpg?raw=true)
 
+(https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/reinahead5.stl)
+
 Printed on fast setings today on Replicator:
 * layer height =0.2
 * perimeters = 2
