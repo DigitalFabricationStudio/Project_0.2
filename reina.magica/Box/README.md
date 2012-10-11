@@ -3,7 +3,7 @@
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
-[box](http://fablab.aalto.fi/site/sites/default/files/styles/flickr-img-content/public/004.JPG)
+![box](http://fablab.aalto.fi/site/sites/default/files/styles/flickr-img-content/public/004.JPG)
 
 I made the file in Illustrator, along with my previous drawings from bike decals. The knobs are 10mm, the holes are 9.8mm I had to adjust the corners from my first drawing cos they were wrong. I heard between 0.1 and 0.17mm works in boxmaker (0.17 is very tight, aka it doesnt really open again), I had experimented a bit on box maker before deciding to make my own pieces.
 
