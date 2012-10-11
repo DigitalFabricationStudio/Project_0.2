@@ -13,3 +13,4 @@ My finished box was cut from 3mm MDF, 0.17mm kerf, laser speed 20%, power 60%, 5
 
 Same settings with kerf 0.3mm created pieces that dont fit together, and kerf 0.05mm created way too loose connections to pieces hold.
 
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/01_lasercutbox.jpg" border="0">
