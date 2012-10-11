@@ -12,3 +12,7 @@ http://dl.dropbox.com/u/24959049/toni_rotation.gif
 ### Printing
 
 After cleaning up and cropping the 3d model, i just threw it in to a software (name of software?) that prepares the print-ready file for the 3d Touch printer. Didn't do much for the settings, just aimed to keep the print time estimation reasonable (25min, print size 2x3x2cm).
+
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/02_face_print_settings.png">
+
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/02_face.jpg">
