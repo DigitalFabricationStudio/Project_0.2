@@ -5,7 +5,7 @@
 
 Took 54 surround pictures of model. 10 were of the top part of head. Generated 3d mesh in 123dcreate. Saved as .stl Opened in Blender apply ocmodifier in blender. Exported to .stl, opened in Netfabb, did the default repair. Brought it back to Blender, applied sculpting tools, manually resculpted the back and details. Bought it to Netfabb, repaired faces, export back to .stl.
 
-![face](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/3d%20scanned%20head/reinaheadmodel.jpg)
+![face](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/3d%20scanned%20head/reinaheadmodel.jpg?raw=true)
 
 Printed on fast setings today on Replicator:
 * layer height =0.2
