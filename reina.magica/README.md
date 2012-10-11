@@ -1,5 +1,5 @@
-# NAME
-# TITLE OF THE PROJECT
+# Reina Magica
+# Wall Clock
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
