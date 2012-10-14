@@ -1,5 +1,5 @@
 # Reina Magica
-# Cartoon Wall Clock
+# Project proposals
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
