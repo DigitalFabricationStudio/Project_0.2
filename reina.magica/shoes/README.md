@@ -11,13 +11,13 @@ I started by looking for ways to scan my feet into 3d.  I tried using pictures a
 
 I heard a fellow student used kinect to scan his face, so I downloaded the same program OSX connect from (http://www.thingiverse.com/thing:8262)
 
-![kinect]((https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/screenshotkinect.jpg))
+![kinect](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/screenshotkinect.png)
 
 I set the kinect on the table, and because the distance was too close, I sat on the next table.  Then I bought the laptop to where I was sitting and arranged myself and the depth settings on the program so I could get a shot of just my leg.  Anyway, I wanted the curvature in my sole when I tiptoe, so I took some shots like that.  But that wasnt getting the bottom of the foot, so I took some like that also.
 
 Because the kinect detects depth pretty nicely, I ended up using the bottom sole shots for the model I will base my shoes on:
 
-![feet]((https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/screenshotfeet.jpg))
+![feet](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/screenshotfeet.png)
 
 
 ## LICENSE
