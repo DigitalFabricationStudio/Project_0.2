@@ -7,6 +7,8 @@ Both of these proposals include electronics, but that really shouldn't be an iss
 
 ## PROPOSAL 01 - Chameleon Lamp
 
+I was just working on this and noticed that this actually exists. With the same name even: <a href ="http://www.thinkgeek.com/product/dde2/">http://www.thinkgeek.com/product/dde2/</a>
+
 <img alt="lamp sketch" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/images/chameleon_lamp_sketch-01.png" />
 
 Chameleon Lamp is a lamp that changes its color based on the color of the surface it's placed on. A color sensor on the bottom of the lamp detects the color of the surface and controls an RGB light inside the lamp.
