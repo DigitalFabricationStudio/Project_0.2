@@ -12,5 +12,11 @@ For exercise I edited the flaps, so I had one more flap on one side. I also enla
 For some reason, exporting svg from Adobe Illustrator and importing it into CorelDraw ended up with a miniature model (around 3:4 scale). Saving AI file and importing that into CorelDraw worked fine.
 
 
+## Pictures
+![Box with extra parts](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box1.jpg)
+
+![Box with pi inside](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box2.jpg)
+
+
 ## LICENSE
 Creative Commons 2.5 Share-alike
