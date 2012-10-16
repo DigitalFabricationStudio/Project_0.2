@@ -19,4 +19,4 @@ For some reason, exporting svg from Adobe Illustrator and importing it into Core
 
 
 ## LICENSE
-Creative Commons 2.5 Share-alike
+Creative Commons 2.5 Attribution Share-alike
