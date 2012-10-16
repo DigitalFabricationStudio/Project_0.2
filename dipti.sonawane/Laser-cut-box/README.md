@@ -1,7 +1,7 @@
 
 ## Laser cut snap-fit box
 
-I created a box on illustrator. I made the diagram from scratch without using any reference. 
+I created a box on illustrator. I made the diagram from scratch without using any reference. In the beginning I did a wrong diagram and accidentally landed up making some puzzel pieces which could snap into each other. This happened also because I wanted to test my box in a small size to test the kerf values and then proceed to making the large box.
 
 ## Sizes for the box
 * Height - 10cm
