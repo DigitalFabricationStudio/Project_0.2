@@ -13,9 +13,9 @@ For some reason, exporting svg from Adobe Illustrator and importing it into Core
 
 
 ## Pictures
-![Box with extra parts](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box1.jpg)
+![Box with extra parts](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box1.jpg)
 
-![Box with pi inside](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box2.jpg)
+![Box with pi inside](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Laser%20cut%20box%20exercise/box2.jpg)
 
 
 ## LICENSE
