@@ -22,12 +22,22 @@ Because the kinect detects depth pretty nicely, I ended up using the bottom sole
 
 Tues Oct 16th
 
-Spent time designing the shoe file.  Extruded out of the faces of the foot scan, and then levelled the bottom with a boolean difference function with a box.  All the faces were missing below the shoe somehow, and also aethetically corrected some geometries and extra faces by moving vertexes.  Corrected the toe area because it was on a slight bend upwards.
+![shoemake](https://www.dropbox.com/s/6djmtwziqbv3c3u/Screen%20shot%202012-10-16%20at%203.18.49%20PM.png)
+
+Spent time designing the shoe file.  Extruded out of the faces of the foot scan, and then levelled the bottom with a boolean difference function with a box.  All the faces were missing below the shoe somehow, and also aethetically corrected some geometries and extra faces by moving vertexes.  Corrected the toe area because it was on a slight bend upwards.  Added some holes using boolean difference between cylinders and models because that's where I put in some ribbons to tie the shoes on.
+
+![shoemake](https://www.dropbox.com/s/adhaf34va63823h/Screen%20shot%202012-10-16%20at%204.36.52%20PM.png)
 
 Wednesday Oct 17th
 
-Loaded .stl file of shoe into B2B and there were some issues.  There were some extra vertices and fixed those in Blender.  Fixed the next file in B2B as an .stl and built a b2b file to print.  The estimate was 14 hours, actually the first with 40% fill was maybe 34 hours.  Anyhow, I changed the plastic to White ABS, and while printing, it wasn't really sticking to the surface, as happened often with 3dtouch, it was cooling too quick, so when the Ultimaker was back, I switched machines. In the new preview of the Macpronterface software, we could see that the bottom of the shoe was not flat, so corrected that again in blender.  The ultimaker was broken and needed recalibration, so now its the second/third attempt to print and looking alright. Also, the length was only 16.5 instead of 19.98 as stated in the b2b software, so the scaling function is inaccurate in B2B.  I switched to clear PLA because its already there and has a nice effect so you can see the meshes and inside the shoe.
+Loaded .stl file of shoe into B2B and there were some issues.  There were some extra vertices and fixed those in Blender.  Fixed the next file in B2B as an .stl and built a b2b file to print.  The estimate was 14 hours, actually the first with 40% fill was maybe 34 hours.  Anyhow, I changed the plastic to White ABS, and while printing, it wasn't really sticking to the surface, as happened often with 3dtouch, it was cooling too quick, so when the Ultimaker was back, I switched machines. In the new preview of the Macpronterface software, we could see that the bottom of the shoe was not flat, so corrected that again in blender.  The ultimaker was broken and needed recalibration, so now its the second/third attempt to print and looking alright. Also, the length was only 16.5 instead of 19.98 as stated in the b2b software, so the scaling function is inaccurate in B2B. 
 
+
+![b2btouchsucks](http://farm9.staticflickr.com/8193/8096917823_82ee505c57_z.jpg)
+
+I switched to clear PLA because its already there and has a nice effect so you can see the meshes and inside the shoe.
+
+![ultimaker](http://farm9.staticflickr.com/8193/8096917105_a7ae74c27c_z.jpg)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
