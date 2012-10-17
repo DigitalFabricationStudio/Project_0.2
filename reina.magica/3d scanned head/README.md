@@ -38,5 +38,11 @@ The drillhead was quite big for something so small, so its missing some details,
 
 
 
+Icecubes:
+Made an icecube out of the mould.  It looks pretty much like me.  Took maybe 2 hours.
+![faceonform](http://farm9.staticflickr.com/8192/8096913197_62fd28b4d0_z.jpg)
+![themould](http://farm9.staticflickr.com/8466/8096452036_dff23a4e9e_z.jpg)
+
+
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
