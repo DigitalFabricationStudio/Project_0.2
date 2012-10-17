@@ -38,6 +38,7 @@ Loaded .stl file of shoe into B2B and there were some issues.  There were some e
 I switched to clear PLA because its already there and has a nice effect so you can see the meshes and inside the shoe.
 
 ![ultimaker](http://farm9.staticflickr.com/8193/8096917105_a7ae74c27c_z.jpg)
+![ultimaker](http://farm9.staticflickr.com/8052/8097102107_83c081ebdf_c.jpg)
 
 
 Settings:
