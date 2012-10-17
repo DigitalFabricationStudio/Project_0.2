@@ -39,5 +39,24 @@ I switched to clear PLA because its already there and has a nice effect so you c
 
 ![ultimaker](http://farm9.staticflickr.com/8193/8096917105_a7ae74c27c_z.jpg)
 
+
+Settings:
+Layer Height:0.4
+Fill density: 0.2
+Fill Pattern: Honeycomb
+top/bottom fill: rectilinear
+
+Infill every 1 layer
+solid infill every 0 layer
+fill angle 45
+Solid infill threshold 70mm2
+Speed: 30mm/s on perimeters
+60mm on infills and bridges
+130 mm travel
+first layer at 30%
+skirt  - 3loops, 6mm, 1 layer, 5mm width
+support material yes, overhang threshold 45, rectilinear, 4mm pattern spacing, pattern angle 0
+
+
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
