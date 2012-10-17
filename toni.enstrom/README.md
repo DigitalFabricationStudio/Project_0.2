@@ -15,5 +15,12 @@ This would probably be a laser cutter project as well. Some kind of a transparen
 ##3. Zoetrope<br/>
 Planning to make a zoetrope with a 3d printed bicycling/walking character. I already have animated character in 3d software, from which i can export the "frames" of the movement cycle.
 The case for the zoetrope would be most likely laser cut from MDF. Here's first blueprint design for that, but i already noticed that the frames should be odd numbered, not even like here. I'll make better sketch later.
-
+<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/zoetrope_planning_toni.png">
+<br/><br/>
+
+NOTES after prototyping (Oct 17): wall pieces should be larger and the model need to have more contrast + more light inside the zoetrope. Anyhow, the system mechanics seemed to work, even though the problem was that the prototype character (laser printed) lacked visibility. Prototype was done with 11 frames. More frames (for example 25) would cause smoother animation but require more time printing the 3d models.
+<br/><br/>
+
+An example how the actual zoetrope animation could be:
+<a href="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/biking_export_25frames_loop.mov">Animated character biking, .MOV file</a> (set it to loop in video player)
