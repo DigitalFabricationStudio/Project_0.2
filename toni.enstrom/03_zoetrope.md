@@ -5,10 +5,10 @@
 
 To build a lasercut "3D" zoetrope with a bicycling character.
 <br/><br/>
-Material:<br/>
-MDF 4mm<br/>
+<b>Material</b><br/>
+- MDF 4mm<br/>
 <br/><br/>
-Pieces:<br/>
+<b>Pieces</b><br/>
 - bottom (1) <br/>
 - top (1) <br/>
 - walls (15) <br/>
@@ -22,10 +22,10 @@ Pieces:<br/>
 5. Keep bitmap & vector images aligned on top of each other.<br/>
 <br/>
 Examples.<br/>
-Vector images (cutting):<br/>
+<b>Vector images</b> (cutting):<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_cutting.png">
 <br/>
-Bitmap images (engraving):<br/>
+<b>Bitmap images</b> (engraving):<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.jpg">
 <br/>
 
