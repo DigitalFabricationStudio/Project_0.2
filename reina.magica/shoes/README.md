@@ -58,6 +58,26 @@ first layer at 30%
 skirt  - 3loops, 6mm, 1 layer, 5mm width
 support material yes, overhang threshold 45, rectilinear, 4mm pattern spacing, pattern angle 0
 
+22nd Oct
+Today I set the outside perimeter speed to 60 from 30, because I met some
+About the seventh printing of the shoe.  The Ultimaker, when moved, often loses it calibration of the platform, so you have to manually adjust it again with tools.  Didn't know notice it was off calibration until later.  Also the screw on the ultimaker at the back for fastening to the filament often loosens, and that caused most problems for "layers of nothing".  So 6th was another flatty.  
+
+Infill at half speed and perimeter at half speed is much more stable
+Currently at:
+
+; layer_height = 0.4
+; perimeters = 2
+; solid_layers = 4
+; fill_density = 0.1
+; perimeter_speed = 60 < 30 is safer
+; infill_speed = 60   < 30 safer
+; travel_speed = 130
+; scale = 1
+; nozzle_diameter = 0.4
+; filament_diameter = 2.95
+; extrusion_multiplier = 1
+; single wall width = 0.42mm
+
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
