@@ -8,6 +8,7 @@ To build a lasercut "3D" zoetrope with a bicycling character.
 <b>Material</b><br/>
 - MDF 4mm<br/>
 <br/><br/>
+
 <b>Pieces</b><br/>
 - bottom (1) <br/>
 - top (1) <br/>
@@ -24,9 +25,13 @@ To build a lasercut "3D" zoetrope with a bicycling character.
 Examples.<br/>
 <b>Vector images</b> (cutting):<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_cutting.png">
+<a href="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_cutting.png">(link)</a>
+
 <br/>
 <b>Bitmap images</b> (engraving):<br/>
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.jpg">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.png">
+<a href="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.png">(link)</a>
+
 <br/>
 
 ###Printing
