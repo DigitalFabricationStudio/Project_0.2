@@ -7,7 +7,7 @@ To build a lasercut "3D" zoetrope with a bicycling character.
 <br/><br/>
 <b>Material</b><br/>
 - MDF 4mm<br/>
-<br/><br/>
+<br/>
 
 <b>Pieces</b><br/>
 - bottom (1) <br/>
