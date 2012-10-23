@@ -3,7 +3,7 @@
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
-<img alt="lamp proto" src="https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/matti.niinimaki/finalproject/images/proto005.jpg" />
+<img alt="lamp proto" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/proto005.jpg" />
 
 Chameleon Lamp is a lamp that changes its color based on the color of the surface it's placed on. A color sensor on the bottom of the lamp detects the color of the surface and controls an RGB light inside the lamp.
 
@@ -22,7 +22,7 @@ Chameleon Lamp is a lamp that changes its color based on the color of the surfac
 </ul>
 
 #### Electronics
-<img alt="electronics" src="https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/matti.niinimaki/finalproject/images/proto001.jpg" />
+<img alt="electronics" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/proto001.jpg" />
 
 <ul>
 	<li>BlinkM MaxM</li>
