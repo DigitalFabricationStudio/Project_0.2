@@ -16,7 +16,7 @@ The base of the lamp is made with laser cut 4 mm plywood with all the electronic
 
 Designing some sort of stands for the parts would have taken less material and might have been easier, but the design I chose also adds some weight to the base, which makes the lamp more stable when using a larger diffuser.
 
-<img alt="laser cutting" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/lamp_base.png-01.jpg" />
+<img alt="laser cutting" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/lamp_base-01.png" />
 <img alt="laser cutting" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/proto003.jpg" />
 
 
@@ -33,6 +33,8 @@ Settings for the laser cutter:
 </ul>
 
 Finishing:
+
+I used Osmo color wax for finishing the base. Just to make it look a bit different from the plain plywood.
 
 <img alt="osmo" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/finishing001.jpg" />
 <img alt="osmo" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/finishing002.jpg" />
