@@ -16,6 +16,10 @@ The base of the lamp is made with laser cut 4 mm plywood with all the electronic
 
 Designing some sort of stands for the parts would have taken less material and might have been easier, but the design I chose also adds some weight to the base, which makes the lamp more stable when using a larger diffuser.
 
+<img alt="laser cutting" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/lamp_base.png-01.jpg" />
+<img alt="laser cutting" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/proto003.jpg" />
+
+
 The rounded corners were made with the help of this <a href="http://www.thingiverse.com/thing:17240">Parametric Flexbox.</a>
 
 <ul>
