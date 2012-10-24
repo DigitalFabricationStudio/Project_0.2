@@ -8,9 +8,9 @@ Personal project developed during the Digital Fabrication Studio course, 0.2 edi
 
 Chameleon Lamp is a lamp that changes its color based on the color of the surface it's placed on. A color sensor on the bottom of the lamp detects the color of the surface and controls RGB LED lights inside the lamp.
 
-### Materials
+## Materials
 
-#### Base of the lamp
+### Base of the lamp
 
 The base of the lamp is made with laser cut 4 mm plywood with all the electronics embedded inside the base in a sandwich design. No screws are needed for assembling the base or for attaching the electronics. Each layer of the sandwich is cut so that the electronics click into place.
 
@@ -20,10 +20,33 @@ The rounded corners were made with the help of this <a href="http://www.thingive
 
 <ul>
 	<li>Laser cut 4 mm plywood</li>
-	<li>Surface finished with Osmo Color wood wax</li>
 </ul>
 
+Settings for the laser cutter:
+<ul>
+<li>cutting: 8/65/500</li>
+<li>engraving: 60/90</li>
+</ul>
+
+Finishing:
+
+<img alt="osmo" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/finishing001.jpg" />
+<img alt="osmo" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/finishing002.jpg" />
+
+
 #### The Lamp Diffuser
+
+I decided to make the diffuser out of silicone since there was no diffused acrylic available
+
+<img alt="bulb" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/bulb001.jpg" />
+<img alt="bulb" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/bulb002.jpg" />
+<img alt="bulb" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/bulb003.jpg" />
+<img alt="bulb" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/bulb004.jpg" />
+<img alt="bulb" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/bulb005.jpg" />
+
+I also tried to 3d print it, but the Ultimaker was having a bad day, so I only got part of it printed.
+
+<img alt="lamp proto" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/diffuser_3dprint.jpg" />
 <ul>
 	<li>The diffuser can be changed. I made a couple of different ones.</li>
 	<li>One was made with silicone</li>
