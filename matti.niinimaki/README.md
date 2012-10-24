@@ -64,6 +64,12 @@ I also tried to 3d print it, but the Ultimaker was having a bad day, so I only g
 
 The sensor is connected to the Arduino Pro Mini, which scales the RGB input values and controls the MaxM RGB LED. The BlinkM MaxM also supports straight input from sensors, but the scaling was much easier when using the Arduino in between.
 
+<img alt="schematic" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/schematic.png" />
+
+I have it wired in a slightly weird way. And since the power supply is 5V, it should be wired directly to VCC and not to the RAW input which goes through the regulator. It still works, but not in the most ideal way. This way of connecting the parts just made sense with the layout and the connectors that I had available. If I make another version of this, I will rewire the electronics.
+
+I had to switch to software i2c instead of the hardware implementation since using the i2c on the mini seemed to somehow mess with my analog inputs. Not sure what was the exact cause, but using the SoftI2CMaster (https://github.com/todbot/SoftI2CMaster) library seemed to fix the issue.
+
 <ul>
 	<li>BlinkM MaxM</li>
 	<li>HDJD-S822 Color Sensor Breakout</li>
