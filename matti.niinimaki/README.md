@@ -3,7 +3,8 @@
 
 Personal project developed during the Digital Fabrication Studio course, 0.2 edition
 
-<img alt="lamp proto" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/proto005.jpg" />
+<img alt="lamp proto" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/lamp001.jpg" />
+<img alt="lamp proto" src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/matti.niinimaki/finalproject/images/lamp002.jpg" />
 
 Chameleon Lamp is a lamp that changes its color based on the color of the surface it's placed on. A color sensor on the bottom of the lamp detects the color of the surface and controls RGB LED lights inside the lamp.
 
@@ -25,8 +26,8 @@ The rounded corners were made with the help of this <a href="http://www.thingive
 #### The Lamp Diffuser
 <ul>
 	<li>The diffuser can be changed. I made a couple of different ones.</li>
-	<li>Sorta-Clear Silicone</li>
-	<li>3d printed PLA plastic</li>
+	<li>One was made with silicone</li>
+	<li>The other was 3d printed with translucent PLA plastic</li>
 </ul>
 
 #### Electronics
