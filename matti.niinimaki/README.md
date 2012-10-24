@@ -76,7 +76,18 @@ I had to switch to software i2c instead of the hardware implementation since usi
 	<li>Arduino Pro Mini 5V</li>
 </ul>
 
+## IMPROVEMENTS
+Here is a list of things I would fix for the next version.
 
+<ul>
+	<li>Move the sensor higher or add some feet to the base. The led of the sensor is too bright when the surface is so close. Other option would be to dim the sensor LED</li>
+	<li>Re-wiring the electronics:</li>
+	<ul>
+		<li>Sensor LED to PWM pin</li>
+		<li>Sensor VCC and GND to digital pins</li>
+		<li>Power supply straight to the VCC of the Arduino</li>
+	</ul>
+</ul>
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
