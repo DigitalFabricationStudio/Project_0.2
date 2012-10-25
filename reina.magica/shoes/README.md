@@ -26,7 +26,7 @@ Tues Oct 16th
 
 Spent time designing the shoe file.  Extruded out of the faces of the foot scan, and then levelled the bottom with a boolean difference function with a box.  All the faces were missing below the shoe somehow, and also aethetically corrected some geometries and extra faces by moving vertexes.  Corrected the toe area because it was on a slight bend upwards.  Added some holes using boolean difference between cylinders and models because that's where I put in some ribbons to tie the shoes on.
 
-![shoemake](https://www.dropbox.com/s/adhaf34va63823h/Screen%20shot%202012-10-16%20at%204.36.52%20PM.png)
+![shoemake2](https://www.dropbox.com/s/adhaf34va63823h/Screen%20shot%202012-10-16%20at%204.36.52%20PM.png)
 
 Wednesday Oct 17th
 
