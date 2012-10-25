@@ -22,7 +22,7 @@ Because the kinect detects depth pretty nicely, I ended up using the bottom sole
 Journal:
 Tues Oct 16th
 
-![shoemake](https://www.dropbox.com/s/6djmtwziqbv3c3u/Screen%20shot%202012-10-16%20at%203.18.49%20PM.png)
+![shoemake](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/Screensurface.png)
 
 Spent time designing the shoe file.  Extruded out of the faces of the foot scan, and then levelled the bottom with a boolean difference function with a box.  All the faces were missing below the shoe somehow, and also aethetically corrected some geometries and extra faces by moving vertexes.  Corrected the toe area because it was on a slight bend upwards.  Added some holes using boolean difference between cylinders and models because that's where I put in some ribbons to tie the shoes on.
 
