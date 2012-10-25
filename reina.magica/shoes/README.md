@@ -1,7 +1,7 @@
 # Reina Magica
 # 3d printed shoe
 
-![my shoes]http://s3images.coroflot.com/user_files/individual_files/436026_kWvmwEFBAHSPbRA2y9983V2EE.jpg
+![my shoes](http://s3images.coroflot.com/user_files/individual_files/436026_kWvmwEFBAHSPbRA2y9983V2EE.jpg)
 
 Aim: to make a custom pair of moulded shoes made out of plastic, inspired by these cool shoes I saw designed by United Nude.
 ![unitednude](http://uk.dutchdesigninchina.com/wp-content/uploads/United-Nude-2-240x240.jpg)
