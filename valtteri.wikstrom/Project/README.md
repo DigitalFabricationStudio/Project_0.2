@@ -12,6 +12,9 @@ The design for the camera frame was dictated by the desire to imitate a regular 
 
 This initial model was used for testing the software running on the raspberry pi, and calibrating the cropping (which is still not perfect in the version provided in /frame-source).
 
+I wanted to save as much acrylic as possible, so to make the holes and grooves right, I laser cut a lot of test pieces.
+![Testing holes](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/prototyping.jpg)
+
 As evident, the raspberry pi was initially placed on the outside of the frame, to not be a part of the users experience. (It was connected to the prototype with the *H-clip*, see end of page.) It turned out that this blocks the view from the viewfinder, so it was placed on the inside instead. Regardless, it is important to note that the raspberry pi is for this design an external part necessary for prototyping, but not imagined for what would be a final product, that's why it has a clear case.
 
 ![Finished frame](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-finished2.jpg)
@@ -70,16 +73,16 @@ Here is a picture of the final model:
 
 ##Settings
 All acrylic was cut with the laser cutter and the following settings:
->> Resolution: 1200 dpi
->> Speed: 20% (for coloured acrylic) and 22% (for clear acrylic)
->> Power: 100%
->> Freq: 500 Hz
+    Resolution: 1200 dpi
+    Speed: 20% (for coloured acrylic) and 22% (for clear acrylic)
+    Power: 100%
+    Freq: 500 Hz
 For chord-paths and other functional engraving:
->> Speed: 35%
->> Power: 100%
+    Speed: 35%
+    Power: 100%
 For regular engraving:
->> Speed: 50%
->> Power 100%
+    Speed: 50%
+    Power 100%
 
 
 ## LICENSE
