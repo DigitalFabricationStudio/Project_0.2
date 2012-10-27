@@ -8,17 +8,17 @@ The camera frame is here to re-imagine how we think of a viewfinder. The active 
 
 ### Design
 The design for the camera frame was dictated by the desire to imitate a regular photo frame. The classic *kymppikuva* photo-size (10x15cm) was a natural decision for the size of the viewfinder. Rounded edges were chosen because they seemed most user-friendly. The first acrylic prototype looked like this:
-![Prototype frame](frame-proto.jpg)
+![Prototype frame](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-proto.jpg)
 
 This initial model was used for testing the software running on the raspberry pi, and calibrating the cropping (which is still not perfect in the version provided in /frame-source).
 
 As evident, the raspberry pi was initially placed on the outside of the frame, to not be a part of the users experience. (It was connected to the prototype with the *H-clip*, see end of page.) It turned out that this blocks the view from the viewfinder, so it was placed on the inside instead. Regardless, it is important to note that the raspberry pi is for this design an external part necessary for prototyping, but not imagined for what would be a final product, that's why it has a clear case.
 
-![Finished frame](frame-finished2.jpg)
+![Finished frame](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-finished2.jpg)
 
 A 3-layer acrylic sandwich was decided for the final design, because this allowed for the middle layer to be a sort of container for components with the outer layers protecting them. There was a need for grooves in different places because of not all the components fitting to the 3mm footprint of the acrylic sheet. The first layer holds the hole for the camera objective and a groove for the shutter button and its cable, and a small groove for the camera cable. The second layer has a hole for the camera component, the infrared distance sensor base, the button base and a hole for the button cable coming through the groove in the first layer. The final layer has a hole for the infrared distance sensor and its connector, which is used also for the button cable, the camera usb cable has its own hole.
 
-![Frame in use](frame-finished.jpg)
+![Frame in use](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-finished.jpg)
 
 
 ### Technical 
@@ -33,7 +33,7 @@ An infrared distance sensor is used to measure how far the user is from the fram
 #### Raspberry pi Analog shield
 I wanted to place the MCP3008 firmly inside the raspberry pi case. For this I designed a pcb in eagle that fits with a connector to the GPIO pins and can be removed. It has connections for soldering a wire to each analog input and holes for 3 ground and 3 +3.3V connections. Additionally it breaks out one of the GPIO pins to be used for the shutter button. This pcb was milled with the Roland Modela MDX-20. 
 
-![Analog shield](analog-shield.jpg)
+![Analog shield](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/analog-shield.jpg)
 
 #### Software
 See the frame-source folder for the source code and installation instructions.
@@ -54,16 +54,16 @@ The current connector is made for a 3mm laser cut material. The hole is 8x3mm an
 
 ### Inspiration
 After thinking about this and discussing with smart people, I decided to try to imitate a plastic buckle found in backpacks to some extent. Only difference would be to make it *pullable*, so that access to the inside of the case wouldn't be necessary.
-![backpack buckle](buckle.jpg)
+![backpack buckle](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/buckle.jpg)
 
 ### Process
 I started off by making a simple connector with 2 mm thick legs and 2 mm thick body, without any extra easing and a 1 mm clipping edge. This didn't work and the connector was too stiff and fragile. I did find out that kerfing wasn't really necessary for the connector, it fits quite snug.
 
 Many iterations went by, with some progress, but the connector was still breaking too often when inserting and removing. The final model had to be elongated and rounded, so that it still fit to the 3mm acrylic. Lo-behold:
-![Stages of connector](evolving_connector.png)
+![Stages of connector](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/evolving_connector.png)
 
 Here is a picture of the final model:
-![The connector](connector_final.jpg)
+![The connector](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/connector_final.jpg)
 
 
 
