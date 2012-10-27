@@ -73,16 +73,16 @@ Here is a picture of the final model:
 
 ##Settings
 All acrylic was cut with the laser cutter and the following settings:
-    Resolution: 1200 dpi
-    Speed: 20% (for coloured acrylic) and 22% (for clear acrylic)
-    Power: 100%
-    Freq: 500 Hz
-For chord-paths and other functional engraving:
-    Speed: 35%
-    Power: 100%
+> Resolution: 1200 dpi
+> Speed: 20% (for coloured acrylic) and 22% (for clear acrylic)
+> Power: 100%
+> Freq: 500 Hz
+For chord-paths and other grooving:
+> Speed: 35%
+> Power: 100%
 For regular engraving:
-    Speed: 50%
-    Power 100%
+> Speed: 50%
+> Power 100%
 
 
 ## LICENSE
