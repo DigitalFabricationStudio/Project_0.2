@@ -40,9 +40,9 @@ Examples.<br/>
 
 
 ready printed:
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope.jpg">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope.jpg">
 
 single animation frame:
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_piece.jpg">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_piece.jpg">
 
 
