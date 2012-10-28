@@ -1,4 +1,4 @@
-#Lasercut zoetrope
+#Lasercut Zoetrope
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Lasercut Zoetrope</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.nstrm.com" property="cc:attributionName" rel="cc:attributionURL">toni</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/toni.enstrom/03_zoetrope.md" rel="dct:source">https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/toni.enstrom/03_zoetrope.md</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.nstrm.com" rel="cc:morePermissions">http://www.nstrm.com</a>.
 
@@ -32,24 +32,23 @@ To build a laser cut "3D" zoetrope with a bicycling character.
 Examples.<br/>
 <b>Vector images</b> (cutting):<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_cutting.png">
-<a href="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_cutting.png">(link)</a>
+
 
 <br/>
 <b>Bitmap images</b> (engraving):<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.png">
-<a href="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetope_frames_engraving.png">(link)</a>
+
 
 <br/>
 
 ###Printing
-In laser cutting, i used default recommended settings for 4mm MDF. (cutting: 15/60/500). In engraving i used 70% speed / 65% power, but in the end engraving wasn't really noticeable.<br/>
-
-###Assembly & usage
-Assembling is rather straight forward. You shouldn't need glue. Place bikes frames in order to a inner circle of bottom plate. Then place wall pieces in order to outer circle. The trickiest part is now place the ceiling plate on top of everything and make the holes match. Finalize by attaching a pivot in the center hole of bottom plate and swing the zoetrope under a powerful light source. Watch the animation go through the wall pieces.
-
+In laser cutting, i used default recommended settings for 4mm MDF. (cutting: 15/60/500). In engraving i used 70% speed / 65% power, but in the end engraving wasn't really noticeable, which can be seen photos below.<br/>
 
 Printing:<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_printing_.jpg"><br/>
+
+###Assembly & usage
+Assembling is rather straight forward procedure. You shouldn't need glue. Place 15 biker frames in order to a inner circle of bottom plate. Then place 15 wall pieces in order to outer circle. The trickiest part is now place the ceiling plate on top of everything and make the holes match. Finalize by attaching a pivot in the center hole of bottom plate and swing the zoetrope under a powerful light source. Watch the animation go through the wall pieces.<br/>
 
 Ready printed and assembled:<br/>
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope.jpg"><br/>
