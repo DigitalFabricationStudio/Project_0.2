@@ -64,4 +64,4 @@ For a zoetrope pivot i used an old bicycle front wheel axis. It’s a little rough
 
 Also about other improvements, an enhanced version of a zoetrope could use a built-in light source, either placed between the layers (walls & character frames) or then in the ceiling piece. Now the zoetrope works as it is, but it needs to be used in a properly lit environment. 
 
-
+One more note. The gaps between walls ("shutter length") are now little less 2mm. I prototyped with slightly wider gaps, but this made animation look more messy and didn't really provide more light to it. I also prototyped adding "background animation" to wall pieces (2d engraved horizon line) behind the cut biker, but this didn't seem to be a good idea, because it just made the overall animation more unclear and messy.
