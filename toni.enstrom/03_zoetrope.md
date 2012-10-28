@@ -37,12 +37,13 @@ Examples.<br/>
 ###Printing
 
 ...
+Printing:
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_printing_.jpg">
 
-
-ready printed:
+Ready printed and assembled:
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope.jpg">
 
-single animation frame:
+A single animation frame:
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_piece.jpg">
 
 
