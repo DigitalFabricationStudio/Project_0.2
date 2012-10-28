@@ -36,14 +36,13 @@ Examples.<br/>
 
 ###Printing
 
-...
-Printing:
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_printing_.jpg">
+Printing:<br/>
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_printing_.jpg"><br/>
 
-Ready printed and assembled:
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope.jpg">
+Ready printed and assembled:<br/>
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope.jpg"><br/>
 
-A single animation frame:
-<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_piece.jpg">
+A single animation frame:<br/>
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/03_zoetrope_piece.jpg"><br/>
 
 
