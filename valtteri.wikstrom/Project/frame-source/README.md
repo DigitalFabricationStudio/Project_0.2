@@ -42,7 +42,7 @@ This installation guide assumes a clean installation of the official Raspbian "w
 3. Software installation on client computer that shows the images
   * You need [Processing](http://www.processing.org) installed.
   * Install the [SFTP library](http://www.shiffman.net/2007/06/04/sftp-with-java-processing/) for Processing.
-  * Download [source code](https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/valtteri.wikstrom/Project/frame-source/camframe.py).
+  * Download [source code](https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/valtteri.wikstrom/Project/frame-source/photoframe_client.pde).
   * You should edit the ip adress in the code.
   * Run the pde-sketch!
   
