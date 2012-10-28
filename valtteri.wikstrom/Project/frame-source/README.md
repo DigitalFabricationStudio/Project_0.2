@@ -38,6 +38,7 @@ This installation guide assumes a clean installation of the official Raspbian "w
   * Download source code for camera frame: `wget https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/valtteri.wikstrom/Project/frame-source/camframe.py`
   * You might need to edit the source code, if your webcam uses a different resolution than 352x288 and if you are using different GPIO pins for the MCP3008.
   * Install opencv: `sudo apt-get install python-opencv`
+  * Run the software: `sudo python camframe.py`
 3. Software installation on client computer that shows the imges
   * You need [Processing](http://www.processing.org) installed.
   * Install the [SFTP library](http://www.shiffman.net/2007/06/04/sftp-with-java-processing/) for Processing.

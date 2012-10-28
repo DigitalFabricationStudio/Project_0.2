@@ -34,6 +34,8 @@ A 3-layer acrylic sandwich was decided for the final design, because this allowe
 
 An infrared distance sensor is used to measure how far the user is from the frame when taking a picture. A recycled laptop webcam is used for the camera component and a Raspberry pi is used for interfacing with these devices and processing the photo to the final format. Finally a processing application running on another computer accesses the raspberry pi through sftp to retrieve the photo and show it on its screen, or a digital photoframe of the same dimensions as the camera frame.
 
+![Wiring](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/connections.png)
+
 #### Raspberry pi Analog shield
 I wanted to place the MCP3008 firmly inside the raspberry pi case. For this I designed a pcb in eagle that fits with a connector to the GPIO pins and can be removed. It has connections for soldering a wire to each analog input and holes for 3 ground and 3 +3.3V connections. Additionally it breaks out one of the GPIO pins to be used for the shutter button. This pcb was milled with the Roland Modela MDX-20. 
 
