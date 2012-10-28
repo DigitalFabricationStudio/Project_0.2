@@ -15,10 +15,10 @@ This installation guide assumes a clean installation of the official Raspbian "w
 1. Network configuration
   * To begin with, the raspberry pi should be connected to a screen, keyboard and mouse.
   * Boot up for the first time, in raspi-config I recommend:
-    1. expand\_rootfs
-    2. memory split: 240
-	3. ssh: Enable (**very important!**)
-	4. Finish and reboot, login is pi/raspberry
+      * expand\_rootfs
+      * memory split: 240
+	  * ssh: Enable (**very important!**)
+	  * Finish and reboot, login is pi/raspberry
   * `startx`
   * "Wifi Config" from desktop, configure your raspberry pi to the same network as your photo-receiving computer.
   * Note down raspberry pi's ip adress (in my case *192.168.0.13*, which will be used in the example)
@@ -29,7 +29,7 @@ This installation guide assumes a clean installation of the official Raspbian "w
   * Take your second computer and connect via ssh to the raspberry pi (with os x: open Terminal and type `ssh pi@192.168.0.13`, where you substitute your raspberry pi's ip adress. After log-in it should look like this: `pi@raspberrypi ~ $`
   * start with updates (this may take a while): `sudo apt-get update` and `sudo apt-get upgrade`.
   * check that your devices are connected by running `lsusb`, my output includes:
-  	`Bus 001 Device 004: ID 0bda:8176 Realtek Semiconductor Corp. RTL8188CUS 802.11n WLAN Adapter`
+  	`Bus 001 Device 004: ID 0bda:8176 Realtek Semiconductor Corp. RTL8188CUS 802.11n WLAN Adapter` and
 	`Bus 001 Device 005: ID 05ca:1810 Ricoh Co., Ltd Pavilion Webcam [R5U870]`
   * check that you have a videoX device by `cd /dev` and `ls`, look for the `video0` device in the list. Look in the next part of the instructions if you are using Ricoh R5U870.
   * `cd /home/pi`
@@ -39,7 +39,7 @@ This installation guide assumes a clean installation of the official Raspbian "w
   * You might need to edit the source code, if your webcam uses a different resolution than 352x288 and if you are using different GPIO pins for the MCP3008.
   * Install opencv: `sudo apt-get install python-opencv`
   * Run the software: `sudo python camframe.py`
-3. Software installation on client computer that shows the imges
+3. Software installation on client computer that shows the images
   * You need [Processing](http://www.processing.org) installed.
   * Install the [SFTP library](http://www.shiffman.net/2007/06/04/sftp-with-java-processing/) for Processing.
   * Download [source code](https://github.com/DigitalFabricationStudio/Project_0.2/raw/master/valtteri.wikstrom/Project/frame-source/camframe.py).

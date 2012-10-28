@@ -10,7 +10,7 @@ The camera frame is here to re-imagine how we think of a viewfinder. The active 
 The design for the camera frame was dictated by the desire to imitate a regular photo frame. The classic *kymppikuva* photo-size (10x15cm) was a natural decision for the size of the viewfinder. Rounded edges were chosen because they seemed most user-friendly. The first acrylic prototype looked like this:
 ![Prototype frame](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-proto.jpg)
 
-This initial model was used for testing the software running on the raspberry pi, and calibrating the cropping (which is still not perfect in the version provided in /frame-source).
+This initial model was used for testing the software running on the raspberry pi, and for calibrating the cropping.
 
 I wanted to save as much acrylic as possible, so to make the holes and grooves right, I laser cut a lot of test pieces.
 ![Testing holes](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/prototyping.jpg)
@@ -23,6 +23,7 @@ A 3-layer acrylic sandwich was decided for the final design, because this allowe
 
 ![Frame in use](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/frame-finished.jpg)
 
+![Resulting picture](https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/valtteri.wikstrom/Project/captured.jpg)
 
 ### Technical 
 #### Components
