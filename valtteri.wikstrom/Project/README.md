@@ -30,6 +30,7 @@ A 3-layer acrylic sandwich was decided for the final design, because this allowe
 * Webcam removed from an old laptop computer (Here using a Ricoh R5U870 0x810 model from HP Pavilion dv6000 series). When the Raspberry Pi camera module is released that will be used instead for better resolution.
 * Infrared distance sensor (Sharp GP2xxx) and Analog to digital converter (MCP3008)
 * Wifi module (Realtek)
+* [See here](https://github.com/DigitalFabricationStudio/Project_0.2/tree/master/valtteri.wikstrom/Project/frame-source) for software installation.
 
 An infrared distance sensor is used to measure how far the user is from the frame when taking a picture. A recycled laptop webcam is used for the camera component and a Raspberry pi is used for interfacing with these devices and processing the photo to the final format. Finally a processing application running on another computer accesses the raspberry pi through sftp to retrieve the photo and show it on its screen, or a digital photoframe of the same dimensions as the camera frame.
 

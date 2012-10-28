@@ -3,7 +3,7 @@
 ## Step-by-step installation instructions for the software and drivers
 ###for following components:
 * Raspberry pi (model B 256MB)
-* Ricoh R5U870 webcam (ID: 0x1810), but it should work for any webcam running on raspberry pi and recognized as /etc/video0 -device, some adjustmensts for resolution should be made
+* Ricoh R5U870 webcam (ID: 0x1810), but it should work for any webcam running on raspberry pi.
 * MCP3008 ADC (for the distance sensors analog values)
 * Mini WLAN adapter Realtek RTL8188CUS (but any raspberry pi compatible WLAN adapter is ok)
 * Second computer (running Processing, ssh)
@@ -60,10 +60,3 @@ This installation guide assumes a clean installation of the official Raspbian "w
   7. Run: `sudo r5u87x-loader --reload`, If you get a successfully uploaded -message, run `sudo reboot` and reconnect to your raspberry pi. Your camera should now work and there should now be a `video0` device in `/dev`. The r5u87x-loader will now run automatically on boot, so you don't need to do any of these steps again.
   8. I haven't had success with taking any pictures with the R5U870 of higher resolution than 352x288. I would love to hear if someone gets undistorted pictures with full resolution.
   
-
-
-
-## LICENSE
-The H-clip is provided with the following creative commons license:
-
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
