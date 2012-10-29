@@ -22,11 +22,11 @@ Because the kinect detects depth pretty nicely, I ended up using the bottom sole
 Journal:
 Tues Oct 16th
 
-![shoemake](https://www.dropbox.com/s/6djmtwziqbv3c3u/Screen%20shot%202012-10-16%20at%203.18.49%20PM.png)
+![shoemake](https://github.com/DigitalFabricationStudio/Project_0.2/blob/master/reina.magica/shoes/Screensurface.png)
 
 Spent time designing the shoe file.  Extruded out of the faces of the foot scan, and then levelled the bottom with a boolean difference function with a box.  All the faces were missing below the shoe somehow, and also aethetically corrected some geometries and extra faces by moving vertexes.  Corrected the toe area because it was on a slight bend upwards.  Added some holes using boolean difference between cylinders and models because that's where I put in some ribbons to tie the shoes on.
 
-![shoemake](https://www.dropbox.com/s/adhaf34va63823h/Screen%20shot%202012-10-16%20at%204.36.52%20PM.png)
+![shoemake2](https://www.dropbox.com/s/adhaf34va63823h/Screen%20shot%202012-10-16%20at%204.36.52%20PM.png)
 
 Wednesday Oct 17th
 
@@ -82,14 +82,16 @@ Currently at:
 ; extrusion_multiplier = 1
 ; single wall width = 0.42mm
 
-Part way through printing the filament stopped.  Tried to fix but it did not come out anymore and stopped the print.
-![ultimaker] (http://farm9.staticflickr.com/8193/8115914412_695254f0d0.jpg)
+
 
 23rd Oct
+Tried to print 2nd (the right shoe) but the print failed during the first 1/5. 
+Part way through printing the filament stopped.  Tried to fix but it did not come out anymore and stopped the print.
+![ultimaker] (http://farm9.staticflickr.com/8193/8115914412_695254f0d0.jpg)
 The final shoe from 21st Oct had contained the missing filament errors and I filled it with a sealant glue which took 16 hours to dry.
 
 24rd Oct
-Finished lacing the shoes after the glue dried and made a presentation
+Finished the shoe and presented.
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.

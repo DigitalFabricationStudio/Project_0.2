@@ -23,3 +23,9 @@ After cleaning up and cropping the 3d model, i just threw it in to a software (n
 Milling took overall approx 60 minutes (surfacing + roughing + finalizing). I used same 3d model as in printing, plus added the box around the faceplate. Afterwards i thought i could have left the box unmodeled and instead crop the milling area in print settings, plus add few millimeters depth to the surfacing settings.
 
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/02_face_milling_.jpg">
+
+### Casting mold
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/02_face_casting_.jpg">
+<br/>
+Mold is hardened and ready after 24 hours:<br/>
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_0.2/master/toni.enstrom/02_face_mold_.jpg">
